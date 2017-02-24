@@ -1,0 +1,6 @@
+Required:
+node - latest version (my local - 7.6.0)
+
+
+To Run:
+npm start
